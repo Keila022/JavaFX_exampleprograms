@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SleepCalculator
+comment0.text=\r\n\ Author\:\ Keila\ Gonzalez\r\n\ Date\:\ 08/29/2024\r\n\ Instructor\:\ Krishna\ Nandanoor\r\n\ Class\:\ Java\ CIT249\r\n\ Purpose\ of\ this\ program\:\ Sleeping\ Calculator\ to\ estimate\ the\ amount\ of\ time\ a\ person\ has\ slept\ in\ their\ life.\r\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
